@@ -1,0 +1,43 @@
+{
+  "title": "href=",
+  "categories": [
+    {
+      "name": "🧠 Coding Bootcamp",
+      "links": [
+        { "label": "FreeCodeCamp", "url": "https://www.freecodecamp.org/" },
+        { "label": "SELFHTML Wiki", "url": "https://wiki.selfhtml.org/wiki/SELFHTML" },
+        { "label": "W3Schools", "url": "https://www.w3schools.com/" },
+        { "label": "JS Keycodes", "url": "https://www.toptal.com/developers/keycode/table" }
+      ]
+    },
+    {
+      "name": "💻 Harte-Ware",
+      "links": [
+        { "label": "Geizhals", "url": "https://geizhals.de/" }
+      ]
+    },
+    {
+      "name": "🦆 Projekte, Ideen & Chaos",
+      "links": [
+        { "label": "Get Well Duck Card", "url": "https://blumenwiesen-sind-cool.github.io/get-well-duck-card/index.html" },
+        { "label": "Cloud-Link", "url": "https://cloud.daa-fs-nmh.de/s/DHbDKQjjA2KWyG" }
+      ]
+    },
+    {
+      "name": "🧰 Zusatz-Software & Tools",
+      "links": [
+        { "label": "Lucid.app", "url": "https://lucid.app/" },
+        { "label": "VirusTotal", "url": "https://www.virustotal.com/gui/home/upload" },
+        { "label": "Have I Been Pwned", "url": "https://haveibeenpwned.com/" }
+      ]
+    },
+    {
+      "name": "😴 BLP – Bisschen längere Pause",
+      "links": [
+        { "label": "MakeItMeme", "url": "https://makitememe.com/" },
+        { "label": "Ducklings.io", "url": "https://ducklings.io/" },
+        { "label": "StumbleGuys", "url": "https://www.stumbleguys.com/de" }
+      ]
+    }
+  ]
+}
